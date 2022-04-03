@@ -66,7 +66,7 @@ $(document).ready(function() {
 		$(urls).each(function(index,item){
 			$('.current-status-'+item.name+' .label').remove();
 			var ping = $.get(item.url, function(response){
-				//console.log(response);
+				console.log('URL:' + item.url + '\n Res:' + response);
 			})
 			.done(function(response){
 				$('.current-status-'+item.name).append(message.online);
