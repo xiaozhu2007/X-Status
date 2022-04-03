@@ -17,7 +17,7 @@ To use X-Status as an uptime monitor and status website generator, you start by 
 
 ### Create a repository from the template
 
-You can click on the following link to generate a repository using the template: [**Create a new repository**](https://github.com/xiaozhu2007/status/generate) from `xiaozhu2007/status`. Alternatively, you can visit the [X-Status repository on GitHub](https://github.com/xiaozhu2007/status/) and click on the "Use this template" button on the top-right. 
+You can click on the following link to generate a repository using the template: [**Create a new repository**](https://github.com/xiaozhu2007/X-Status/generate) from `xiaozhu2007/status`. Alternatively, you can visit the [X-Status repository on GitHub](https://github.com/xiaozhu2007/X-Status/) and click on the "Use this template" button on the top-right. 
 
 In both cases, the next steps are:
 
